@@ -1,0 +1,16 @@
+.App {
+  display: block;
+}
+
+.list {
+  color: blueviolet;
+  margin-left: 40px;
+}
+
+.button {
+  margin-left: 80px;
+}
+
+.inUse {
+  background-color: blueviolet;
+}
